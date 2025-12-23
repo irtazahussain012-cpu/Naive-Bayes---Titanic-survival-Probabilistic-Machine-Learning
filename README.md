@@ -1,5 +1,5 @@
 # Naive-Bayes---Titanic-survival-Probabilistic-Machine-Learning
-##Overview
+## Overview
 
 This project implements a Gaussian Naive Bayes classifier to predict passenger survival on the Titanic dataset. It demonstrates a full probabilistic machine learning pipeline, including data preprocessing, exploratory analysis, correlation checks, model training, incremental learning, evaluation, and an optional interactive prediction dashboard using ipywidgets.
 The repository is suitable for academic submission, learning probabilistic ML, and portfolio/GitHub showcasing.
